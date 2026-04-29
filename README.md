@@ -15,6 +15,8 @@
   <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-Support%20Development-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"></a>
 </p>
 
+> 🌐 Language / 语言：**English** | [中文](README.zh.md)
+
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
 
 <p align="center">
